@@ -18,16 +18,11 @@ function checker() {
     } else {
         output.innerText = "Sorry. Your Birthdate is not that lucky";
     }
-
-    console.log (sum);
 }
 
-
-
-
-
-
-
-
+function typeIdentifier() {
+    output.innerText = "";
+}
 
 button.addEventListener ("click", checker)
+number.addEventListener ("change", typeIdentifier)
