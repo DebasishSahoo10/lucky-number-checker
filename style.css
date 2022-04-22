@@ -1,0 +1,13 @@
+:root {
+
+}
+
+
+body {
+    text-align: center;
+}
+
+#birth-date, #lucky-number {
+    display: block;
+    margin: auto;
+}
