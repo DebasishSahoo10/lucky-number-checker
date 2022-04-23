@@ -14,10 +14,10 @@ function checker() {
     }
     if (sum%number.value === 0) {
         output.innerText = "Yayyy. Your Birthdate is lucky";
-        console.log("lucky")
     } else {
         output.innerText = "Sorry. Your Birthdate is not that lucky";
     }
+
 }
 
 function typeIdentifier() {
