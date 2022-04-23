@@ -53,3 +53,11 @@ button {
     color: var(--primary-color);
     font-weight: bold;
 }
+
+small {
+    margin: 1rem auto;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
