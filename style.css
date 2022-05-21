@@ -65,4 +65,8 @@ small {
     .container {
         max-width: 90%;
     }
+
+    #birth-date {
+        width: 90%;
+    }
   }
