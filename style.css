@@ -69,6 +69,7 @@ small {
     #birth-date {
         width: 100%;
         background: transparent;
-        margin: auto;
+        align-items: center;
+        align-content: center;
     }
   }
